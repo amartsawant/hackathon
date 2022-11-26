@@ -1,84 +1,96 @@
 {
-  "users":[{
-		"id": 1,
-		"firstName": "Saurabh",
-		"lastName": "Shrivastav",
-		"email": "saurabh.shrivastav@gmail.com",
-		"userPassword": "12345",
-		"userRole": "Admin"
-	},
-	{
-		"id": 2,
-		"firstName": "Akshay",
-		"lastName": "Bairagi",
-		"email": "akshay.bairagi@gmail.com",
-		"userPassword": "12345",
-		"userRole": "Admin"
-	},
-	{
-		"id": 3,
-		"firstName": "Amar",
-		"lastName": "Sawant",
-		"email": "amar.sawant@gmail.com",
-		"userPassword": "12345",
-		"userRole": "Admin"
-	},
-	{
-		"id": 4,
-		"firstName": "Kurtis",
-		"lastName": "Brooks",
-		"email": "Kurtis.Brooks@gmaail.com",
-		"userPassword": "12345",
-		"userRole": "Admin"
-	},
-	{
-		"id": 5,
-		"firstName": "Leanne",
-		"lastName": "Graham",
-		"email": "leanne.graham@gmaail.com",
-		"userPassword": "12345",
-		"userRole": "User"
-	},
-	{
-		"id": 6,
-		"firstName": "Ervin",
-		"lastName": "Howell",
-		"email": "Ervin.Howell@gmaail.com",
-		"userPassword": "12345",
-		"userRole": "User"
-	},
-	{
-		"id": 7,
-		"firstName": "Clementine",
-		"lastName": "Bauch",
-		"email": "Clementine.Bauch@gmaail.com",
-		"userPassword": "12345",
-		"userRole": "User"
-	},
-	{
-		"id": 8,
-		"firstName": "Patricia",
-		"lastName": "Lebsack",
-		"email": "Patricia.Lebsack@gmaail.com",
-		"userPassword": "12345",
-		"userRole": "User"
+	"users": [{
+			"id": 1,
+			"firstName": "Saurabh",
+			"lastName": "Shrivastav",
+			"email": "saurabh.shrivastav@gmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 2,
+			"firstName": "Akshay",
+			"lastName": "Bairagi",
+			"email": "akshay.bairagi@gmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 3,
+			"firstName": "Amar",
+			"lastName": "Sawant",
+			"email": "amar.sawant@gmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 4,
+			"firstName": "Kurtis",
+			"lastName": "Brooks",
+			"email": "Kurtis.Brooks@gmaail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 5,
+			"firstName": "Leanne",
+			"lastName": "Graham",
+			"email": "leanne.graham@gmaail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 6,
+			"firstName": "Ervin",
+			"lastName": "Howell",
+			"email": "Ervin.Howell@gmaail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 7,
+			"firstName": "Clementine",
+			"lastName": "Bauch",
+			"email": "Clementine.Bauch@gmaail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 8,
+			"firstName": "Patricia",
+			"lastName": "Lebsack",
+			"email": "Patricia.Lebsack@gmaail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		}
+	],
+	"projects": [{
+			"id": 1,
+			"name": "ERM marketplace"
+		},
+		{
+			"id": 2,
+			"name": "SAP (Group)"
+		},
+		{
+			"id": 3,
+			"name": "Avq Offering X"
+		}
+	],
+	"departments": [{
+			"id": 1,
+			"name": "Central Functions"
+		},
+		{
+			"id": 2,
+			"name": "Group Processes & Application"
+		},
+		{
+			"id": 3,
+			"name": "Product Management and Development"
+		}
+	],
+	"profile": {
+		"name": "typicode"
 	}
-],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "world"
-    },
-    {
-      "id": 3,
-      "title": "good morning"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
