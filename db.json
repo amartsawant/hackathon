@@ -93,7 +93,74 @@
 			"name": "Product Management and Development"
 		}
 	],
-	"profile": {
-		"name": "typicode"
-	}
+	"Assets": [{
+			"tag": "ITH-0001",
+			"name": "HP Elitebook",
+			"category": "Laptop",
+			"model": "HP Elitebook",
+			"serial": "HP301234473",
+			"manufacturer": "HP",
+			"status": "Deployed",
+			"location": "Pune"
+		}, {
+			"tag": "ITH-0002",
+			"name": "Netgear Nighthawk AX12",
+			"category": "Router",
+			"model": "Netgear Nighthawk AX12",
+			"serial": "NG4349543",
+			"manufacturer": "Netgear",
+			"status": "Pending",
+			"location": "Manila"
+		},
+		{
+			"tag": "ITH-0003",
+			"name": "Samsung 27 inch",
+			"category": "Monitor",
+			"model": "Samsung 27 inch",
+			"serial": "SM43849543",
+			"manufacturer": "Samsung",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"tag": "ITH-0004",
+			"name": "Keyboard",
+			"category": "Accessory",
+			"model": "Dell Keyboard",
+			"serial": "DJU43975493",
+			"manufacturer": "Dell",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"tag": "ITH-0005",
+			"name": "Keyboard Logitech MK240",
+			"category": "Accessory",
+			"model": "Logitech MK240",
+			"serial": "DJU43975493",
+			"manufacturer": "Logitech",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"tag": "ITH-0006",
+			"name": "HP Docking Station",
+			"category": "Docking station",
+			"model": "HP DS",
+			"serial": "1C1Y523AA",
+			"manufacturer": "HP",
+			"status": "Deployed",
+			"location": "Zurich"
+		},
+		{
+			"tag": "ITH-0007",
+			"name": "Macbook Pro 32",
+			"category": "Laptop",
+			"model": "Macbook Pro M1 13",
+			"serial": "AMB49473248",
+			"manufacturer": "Apple",
+			"status": "Pending",
+			"location": "Zurich"
+		}
+	]
 }
