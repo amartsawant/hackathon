@@ -66,15 +66,18 @@
 	],
 	"projects": [{
 			"id": 1,
-			"name": "ERM marketplace"
+			"name": "ERM marketplace",
+			"department": "Central Functions"
 		},
 		{
 			"id": 2,
-			"name": "SAP (Group)"
+			"name": "SAP (Group)",
+			"department": "Group Processes & Application"
 		},
 		{
 			"id": 3,
-			"name": "Avq Offering X"
+			"name": "Avq Offering X",
+			"department": "Product Management and Development"
 		}
 	],
 	"departments": [{
