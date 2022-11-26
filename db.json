@@ -1,4 +1,69 @@
 {
+  "users":[{
+		"id": 1,
+		"firstName": "Saurabh",
+		"lastName": "Shrivastav",
+		"email": "saurabh.shrivastav@gmail.com",
+		"userPassword": "12345",
+		"userRole": "Admin"
+	},
+	{
+		"id": 2,
+		"firstName": "Akshay",
+		"lastName": "Bairagi",
+		"email": "akshay.bairagi@gmail.com",
+		"userPassword": "12345",
+		"userRole": "Admin"
+	},
+	{
+		"id": 3,
+		"firstName": "Amar",
+		"lastName": "Sawant",
+		"email": "amar.sawant@gmail.com",
+		"userPassword": "12345",
+		"userRole": "Admin"
+	},
+	{
+		"id": 4,
+		"firstName": "Kurtis",
+		"lastName": "Brooks",
+		"email": "Kurtis.Brooks@gmaail.com",
+		"userPassword": "12345",
+		"userRole": "Admin"
+	},
+	{
+		"id": 5,
+		"firstName": "Leanne",
+		"lastName": "Graham",
+		"email": "leanne.graham@gmaail.com",
+		"userPassword": "12345",
+		"userRole": "User"
+	},
+	{
+		"id": 6,
+		"firstName": "Ervin",
+		"lastName": "Howell",
+		"email": "Ervin.Howell@gmaail.com",
+		"userPassword": "12345",
+		"userRole": "User"
+	},
+	{
+		"id": 7,
+		"firstName": "Clementine",
+		"lastName": "Bauch",
+		"email": "Clementine.Bauch@gmaail.com",
+		"userPassword": "12345",
+		"userRole": "User"
+	},
+	{
+		"id": 8,
+		"firstName": "Patricia",
+		"lastName": "Lebsack",
+		"email": "Patricia.Lebsack@gmaail.com",
+		"userPassword": "12345",
+		"userRole": "User"
+	}
+],
   "posts": [
     {
       "id": 1,
