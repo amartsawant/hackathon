@@ -11,7 +11,7 @@
 			"id": 2,
 			"firstName": "Akshay",
 			"lastName": "Bairagi",
-			"email": "akshay.bairagi@gmail.com",
+			"email": "akshay.bairagi@hotmail.com",
 			"userPassword": "12345",
 			"userRole": "Admin"
 		},
@@ -19,7 +19,7 @@
 			"id": 3,
 			"firstName": "Amar",
 			"lastName": "Sawant",
-			"email": "amar.sawant@gmail.com",
+			"email": "amar.sawant@hotmail.com",
 			"userPassword": "12345",
 			"userRole": "Admin"
 		},
@@ -27,7 +27,7 @@
 			"id": 4,
 			"firstName": "Kurtis",
 			"lastName": "Brooks",
-			"email": "Kurtis.Brooks@gmaail.com",
+			"email": "kurtis.brooks@gmail.com",
 			"userPassword": "12345",
 			"userRole": "Admin"
 		},
@@ -35,7 +35,7 @@
 			"id": 5,
 			"firstName": "Leanne",
 			"lastName": "Graham",
-			"email": "leanne.graham@gmaail.com",
+			"email": "leanne.graham@yahoo.com",
 			"userPassword": "12345",
 			"userRole": "User"
 		},
@@ -43,7 +43,7 @@
 			"id": 6,
 			"firstName": "Ervin",
 			"lastName": "Howell",
-			"email": "Ervin.Howell@gmaail.com",
+			"email": "ervin.howell@rediff.com",
 			"userPassword": "12345",
 			"userRole": "User"
 		},
@@ -51,7 +51,7 @@
 			"id": 7,
 			"firstName": "Clementine",
 			"lastName": "Bauch",
-			"email": "Clementine.Bauch@gmaail.com",
+			"email": "clementine.bauch@gmail.com",
 			"userPassword": "12345",
 			"userRole": "User"
 		},
@@ -59,7 +59,7 @@
 			"id": 8,
 			"firstName": "Patricia",
 			"lastName": "Lebsack",
-			"email": "Patricia.Lebsack@gmaail.com",
+			"email": "patricia.lebsack@hotmail.com",
 			"userPassword": "12345",
 			"userRole": "User"
 		}
@@ -221,6 +221,47 @@
 			"serial": "348343474-3434",
 			"manufacturer": "Microsoft",
 			"expiry": "31-Dec-23"
+		}
+	],
+	"allocation": [{
+			"id": 1,
+			"type": "Asset",
+			"assetname": "HP Elitebook",
+			"category": "Laptop",
+			"serial": "HP301234473",
+			"date": "23-Nov-21",
+			"user": "Leanne Graham",
+			"location": "Zurich"
+		},
+		{
+			"id": 2,
+			"type": "License",
+			"assetname": "Mcaffee agent",
+			"category": "Antivirus",
+			"serial": "GDSD3-NJJF6",
+			"date": "12-Jun-21",
+			"user": "Clementine Bauch",
+			"location": "Singapore"
+		},
+		{
+			"id": 3,
+			"type": "Asset",
+			"assetname": "HP Docking Station",
+			"category": "Docking station",
+			"serial": "1C1Y523AA",
+			"date": "5-Apr-20",
+			"user": "Ervin Howell",
+			"location": "Zurich"
+		},
+		{
+			"id": 3,
+			"type": "Asset",
+			"assetname": "Macbook Pro 32",
+			"category": "Laptop",
+			"serial": "AMB49473248",
+			"date": "14-Jul-22",
+			"user": "Kurtis Brooks",
+			"location": "Sydney"
 		}
 	]
 }
