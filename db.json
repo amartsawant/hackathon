@@ -94,6 +94,8 @@
 		}
 	],
 	"Assets": [{
+					"id": 1,
+
 			"tag": "ITH-0001",
 			"name": "HP Elitebook",
 			"category": "Laptop",
@@ -103,6 +105,8 @@
 			"status": "Deployed",
 			"location": "Pune"
 		}, {
+						"id": 2,
+
 			"tag": "ITH-0002",
 			"name": "Netgear Nighthawk AX12",
 			"category": "Router",
@@ -113,6 +117,8 @@
 			"location": "Manila"
 		},
 		{
+						"id": 3,
+
 			"tag": "ITH-0003",
 			"name": "Samsung 27 inch",
 			"category": "Monitor",
@@ -123,6 +129,8 @@
 			"location": "Pune"
 		},
 		{
+						"id": 4,
+
 			"tag": "ITH-0004",
 			"name": "Keyboard",
 			"category": "Accessory",
@@ -133,6 +141,8 @@
 			"location": "Pune"
 		},
 		{
+						"id": 5,
+
 			"tag": "ITH-0005",
 			"name": "Keyboard Logitech MK240",
 			"category": "Accessory",
@@ -143,6 +153,8 @@
 			"location": "Pune"
 		},
 		{
+						"id": 6,
+
 			"tag": "ITH-0006",
 			"name": "HP Docking Station",
 			"category": "Docking station",
@@ -153,6 +165,8 @@
 			"location": "Zurich"
 		},
 		{
+						"id": 7,
+
 			"tag": "ITH-0007",
 			"name": "Macbook Pro 32",
 			"category": "Laptop",
