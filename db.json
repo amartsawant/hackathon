@@ -93,8 +93,8 @@
 			"name": "Product Management and Development"
 		}
 	],
-	"Assets": [{
-					"id": 1,
+	"assets": [{
+			"id": 1,
 
 			"tag": "ITH-0001",
 			"name": "HP Elitebook",
@@ -105,7 +105,7 @@
 			"status": "Deployed",
 			"location": "Pune"
 		}, {
-						"id": 2,
+			"id": 2,
 
 			"tag": "ITH-0002",
 			"name": "Netgear Nighthawk AX12",
@@ -117,7 +117,7 @@
 			"location": "Manila"
 		},
 		{
-						"id": 3,
+			"id": 3,
 
 			"tag": "ITH-0003",
 			"name": "Samsung 27 inch",
@@ -129,7 +129,7 @@
 			"location": "Pune"
 		},
 		{
-						"id": 4,
+			"id": 4,
 
 			"tag": "ITH-0004",
 			"name": "Keyboard",
@@ -141,7 +141,7 @@
 			"location": "Pune"
 		},
 		{
-						"id": 5,
+			"id": 5,
 
 			"tag": "ITH-0005",
 			"name": "Keyboard Logitech MK240",
@@ -153,7 +153,7 @@
 			"location": "Pune"
 		},
 		{
-						"id": 6,
+			"id": 6,
 
 			"tag": "ITH-0006",
 			"name": "HP Docking Station",
@@ -165,7 +165,7 @@
 			"location": "Zurich"
 		},
 		{
-						"id": 7,
+			"id": 7,
 
 			"tag": "ITH-0007",
 			"name": "Macbook Pro 32",
@@ -175,6 +175,52 @@
 			"manufacturer": "Apple",
 			"status": "Pending",
 			"location": "Zurich"
+		}
+	],
+	"licenses": [{
+			"id": 1,
+			"tag": "ITL-0001",
+			"name": "Mcaffee agent",
+			"category": "Antivirus",
+			"serial": "GDSD3-NJJF6",
+			"manufacturer": "Mcaffee",
+			"expiry": "31-Dec-23"
+		},
+		{
+			"id": 2,
+			"tag": "ITL-0002",
+			"name": "Zscaler",
+			"category": "Security",
+			"serial": "FRETTY53622",
+			"manufacturer": "Zscaler",
+			"expiry": "23-SEP-25"
+		},
+		{
+			"id": 3,
+			"tag": "ITL-0003",
+			"name": "ThinkCell",
+			"category": "MS office addons",
+			"serial": "8434-4343-1234",
+			"manufacturer": "Microsoft",
+			"expiry": "31-Mar-25"
+		},
+		{
+			"id": 4,
+			"tag": "ITL-0004",
+			"name": "MS Office 365",
+			"category": "Productivity",
+			"serial": "12345-12345",
+			"manufacturer": "Microsoft",
+			"expiry": "30-Jun-23"
+		},
+		{
+			"id": 5,
+			"tag": "ITL-0005",
+			"name": "Zoom business",
+			"category": "Conference",
+			"serial": "348343474-3434",
+			"manufacturer": "Microsoft",
+			"expiry": "31-Dec-23"
 		}
 	]
 }
