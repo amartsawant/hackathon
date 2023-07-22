@@ -1,0 +1,256 @@
+{
+	"users": [{
+			"id": 1,
+			"firstName": "Saurabh",
+			"lastName": "Shrivastav",
+			"email": "saurabh.shrivastav@gmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 2,
+			"firstName": "Akshay",
+			"lastName": "Bairagi",
+			"email": "akshay.bairagi@hotmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 3,
+			"firstName": "Amar",
+			"lastName": "Sawant",
+			"email": "amar.sawant@hotmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 4,
+			"firstName": "Kurtis",
+			"lastName": "Brooks",
+			"email": "kurtis.brooks@gmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 5,
+			"firstName": "Leanne",
+			"lastName": "Graham",
+			"email": "leanne.graham@yahoo.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 6,
+			"firstName": "Ervin",
+			"lastName": "Howell",
+			"email": "ervin.howell@rediff.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 7,
+			"firstName": "Clementine",
+			"lastName": "Bauch",
+			"email": "clementine.bauch@gmail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 8,
+			"firstName": "Patricia",
+			"lastName": "Lebsack",
+			"email": "patricia.lebsack@hotmail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		}
+	],
+	"projects": [{
+			"id": 1,
+			"name": "ERM marketplace",
+			"department": "Central Functions"
+		},
+		{
+			"id": 2,
+			"name": "SAP (Group)",
+			"department": "Group Processes & Application"
+		},
+		{
+			"id": 3,
+			"name": "Avq Offering X",
+			"department": "Product Management and Development"
+		}
+	],
+
+	"assets": [{
+			"id": 1,
+
+			"tag": "ITH-0001",
+			"name": "HP Elitebook",
+			"category": "Laptop",
+			"model": "HP Elitebook",
+			"serial": "HP301234473",
+			"manufacturer": "HP",
+			"status": "Deployed",
+			"location": "Pune"
+		}, {
+			"id": 2,
+
+			"tag": "ITH-0002",
+			"name": "Netgear Nighthawk AX12",
+			"category": "Router",
+			"model": "Netgear Nighthawk AX12",
+			"serial": "NG4349543",
+			"manufacturer": "Netgear",
+			"status": "Pending",
+			"location": "Manila"
+		},
+		{
+			"id": 3,
+
+			"tag": "ITH-0003",
+			"name": "Samsung 27 inch",
+			"category": "Monitor",
+			"model": "Samsung 27 inch",
+			"serial": "SM43849543",
+			"manufacturer": "Samsung",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"id": 4,
+
+			"tag": "ITH-0004",
+			"name": "Keyboard",
+			"category": "Accessory",
+			"model": "Dell Keyboard",
+			"serial": "DJU43975493",
+			"manufacturer": "Dell",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"id": 5,
+
+			"tag": "ITH-0005",
+			"name": "Keyboard Logitech MK240",
+			"category": "Accessory",
+			"model": "Logitech MK240",
+			"serial": "DJU43975493",
+			"manufacturer": "Logitech",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"id": 6,
+
+			"tag": "ITH-0006",
+			"name": "HP Docking Station",
+			"category": "Docking station",
+			"model": "HP DS",
+			"serial": "1C1Y523AA",
+			"manufacturer": "HP",
+			"status": "Deployed",
+			"location": "Zurich"
+		},
+		{
+			"id": 7,
+
+			"tag": "ITH-0007",
+			"name": "Macbook Pro 32",
+			"category": "Laptop",
+			"model": "Macbook Pro M1 13",
+			"serial": "AMB49473248",
+			"manufacturer": "Apple",
+			"status": "Pending",
+			"location": "Zurich"
+		}
+	],
+	"licenses": [{
+			"id": 1,
+			"tag": "ITL-0001",
+			"name": "Mcaffee agent",
+			"category": "Antivirus",
+			"serial": "GDSD3-NJJF6",
+			"manufacturer": "Mcaffee",
+			"expiry": "31-Dec-23"
+		},
+		{
+			"id": 2,
+			"tag": "ITL-0002",
+			"name": "Zscaler",
+			"category": "Security",
+			"serial": "FRETTY53622",
+			"manufacturer": "Zscaler",
+			"expiry": "23-SEP-25"
+		},
+		{
+			"id": 3,
+			"tag": "ITL-0003",
+			"name": "ThinkCell",
+			"category": "MS office addons",
+			"serial": "8434-4343-1234",
+			"manufacturer": "Microsoft",
+			"expiry": "31-Mar-25"
+		},
+		{
+			"id": 4,
+			"tag": "ITL-0004",
+			"name": "MS Office 365",
+			"category": "Productivity",
+			"serial": "12345-12345",
+			"manufacturer": "Microsoft",
+			"expiry": "30-Jun-23"
+		},
+		{
+			"id": 5,
+			"tag": "ITL-0005",
+			"name": "Zoom business",
+			"category": "Conference",
+			"serial": "348343474-3434",
+			"manufacturer": "Microsoft",
+			"expiry": "31-Dec-23"
+		}
+	],
+	"allocation": [{
+			"id": 1,
+			"type": "Asset",
+			"assetname": "HP Elitebook",
+			"category": "Laptop",
+			"serial": "HP301234473",
+			"date": "23-Nov-21",
+			"user": "Leanne Graham",
+			"location": "Zurich"
+		},
+		{
+			"id": 2,
+			"type": "Asset",
+			"assetname": "Samsung 27 inch",
+			"category": "Monitor",
+			"serial": "SM43849543",
+			"date": "12-Jun-21",
+			"user": "Clementine Bauch",
+			"location": "Singapore"
+		},
+		{
+			"id": 3,
+			"type": "Asset",
+			"assetname": "HP Docking Station",
+			"category": "Docking station",
+			"serial": "1C1Y523AA",
+			"date": "5-Apr-20",
+			"user": "Ervin Howell",
+			"location": "Zurich"
+		},
+		{
+			"id": 4,
+			"type": "Asset",
+			"assetname": "Macbook Pro 32",
+			"category": "Laptop",
+			"serial": "AMB49473248",
+			"date": "14-Jul-22",
+			"user": "Kurtis Brooks",
+			"location": "Sydney"
+		}
+	]
+
+}
