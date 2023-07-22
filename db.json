@@ -1,303 +1,380 @@
 {
-    "data": [
-        {
-            "bu": {
-                "keyList": [
-                    {
-                        "objKey": {
-                            "id": 11
-                        },
-                        "val": "BU.UK"
-                    }
-                ]
+  
+  "data": [
+    {
+      "bu": {
+        "keyList": [
+          {
+            "objKey": {
+              "id": 11
             },
-            "objNameList": [
-                {
-                    "dateValid": "0001-01-02",
-                    "name": "00301261001/GBP"
-                }
-            ],
-            "openDate": "1992-02-25",
-            "posList": [
-                
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "GB0009252882"
-                                }
-                            ]
-                        },
-                        "id": 59755,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "GlaxoSmithKline"
-                            }
-                        ]
-                    },
-                    "id": 61168,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 52,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "GBP"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "BE0003470755"
-                                }
-                            ]
-                        },
-                        "id": 59739,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "Solvay"
-                            }
-                        ]
-                    },
-                    "id": 61171,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 51,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "EUR"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "GB00B3D4VD98"
-                                }
-                            ]
-                        },
-                        "id": 59124,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "1.25% Index-linked United Kingdom of Great Britain and Northern Ireland 2008 - 22.11.2032"
-                            }
-                        ]
-                    },
-                    "id": 61175,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 52,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "GBP"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "GB00B019KW72"
-                                }
-                            ]
-                        },
-                        "id": 59767,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "J Sainsbury"
-                            }
-                        ]
-                    },
-                    "id": 61183,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 52,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "GBP"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "GB00B8C3BL03"
-                                }
-                            ]
-                        },
-                        "id": 59826,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "Sage Grp"
-                            }
-                        ]
-                    },
-                    "id": 61187,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 52,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "GBP"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "GB0008706128"
-                                }
-                            ]
-                        },
-                        "id": 59778,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "Lloyds Bank Grp"
-                            }
-                        ]
-                    },
-                    "id": 61189,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 52,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "GBP"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "LU1223083913"
-                                }
-                            ]
-                        },
-                        "id": 58873,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "SISF Gl Gold"
-                            }
-                        ]
-                    },
-                    "id": 61192,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 30857,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "SGD"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {
-                            "assetIsin": [
-                                {
-                                    "val": "HK0000235009"
-                                }
-                            ]
-                        },
-                        "id": 59172,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "2.9% Swire Properties MTN Financing Ltd 2015 - 23.01.2025"
-                            }
-                        ]
-                    },
-                    "id": 61195,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 30779,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "HKD"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "asset": {
-                        "extn": {},
-                        "id": 30779,
-                        "objNameList": [
-                            {
-                                "dateValid": "0001-01-02",
-                                "name": "Hong Kong Dollar"
-                            }
-                        ]
-                    },
-                    "id": 61479,
-                    "objNameList": [],
-                    "refCurry": {
-                        "id": 30779,
-                        "keyList": [
-                            {
-                                "objKey": {
-                                    "id": 9
-                                },
-                                "val": "HKD"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "val": "BU.UK"
+          }
+        ]
+      },
+      "objNameList": [
+        {
+          "dateValid": "0001-01-02",
+          "name": "00301261001/GBP"
         }
-    ],
-    "success": true,
-    "code": 1,
-    "hintMessages": [],
-    "queryCode": "OK"
+      ],
+      "openDate": "1992-02-25",
+      "posList": [
+        
+        {
+          "asset": {
+            "extn": {
+              
+            },
+            "id": 58904,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "SAS Commodity"
+              }
+            ]
+          },
+          "id": 61154,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 30857,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "SGD"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              "assetTks": [
+                {
+                  "val": "T49"
+                }
+              ]
+            },
+            "id": 59151,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "4.25% United Kingdom of Great Britain and Northern Ireland 2008 - 07.12.2049"
+              }
+            ]
+          },
+          "id": 61161,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 52,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "GBP"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              "assetTks": [
+                {
+                  "val": "GSK"
+                }
+              ]
+            },
+            "id": 59755,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "GlaxoSmithKline"
+              }
+            ]
+          },
+          "id": 61168,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 52,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "GBP"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              "assetTks": [
+                {
+                  "val": "SOLB"
+                }
+              ]
+            },
+            "id": 59739,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "Solvay"
+              }
+            ]
+          },
+          "id": 61171,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 51,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "EUR"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              "assetTks": [
+                {
+                  "val": "T32"
+                }
+              ]
+            },
+            "id": 59124,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "1.25% Index-linked United Kingdom of Great Britain and Northern Ireland 2008 - 22.11.2032"
+              }
+            ]
+          },
+          "id": 61175,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 52,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "GBP"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              "assetTks": [
+                {
+                  "val": "SBRY"
+                }
+              ]
+            },
+            "id": 59767,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "J Sainsbury"
+              }
+            ]
+          },
+          "id": 61183,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 52,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "GBP"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              "assetTks": [
+                {
+                  "val": "SGE"
+                }
+              ]
+            },
+            "id": 59826,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "Sage Grp"
+              }
+            ]
+          },
+          "id": 61187,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 52,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "GBP"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              "assetTks": [
+                {
+                  "val": "LLOY"
+                }
+              ]
+            },
+            "id": 59778,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "Lloyds Bank Grp"
+              }
+            ]
+          },
+          "id": 61189,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 52,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "GBP"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              
+            },
+            "id": 58873,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "SISF Gl Gold"
+              }
+            ]
+          },
+          "id": 61192,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 30857,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "SGD"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              
+            },
+            "id": 59172,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "2.9% Swire Properties MTN Financing Ltd 2015 - 23.01.2025"
+              }
+            ]
+          },
+          "id": 61195,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 30779,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "HKD"
+              }
+            ]
+          }
+        },
+        {
+          "asset": {
+            "extn": {
+              
+            },
+            "id": 30779,
+            "objNameList": [
+              {
+                "dateValid": "0001-01-02",
+                "name": "Hong Kong Dollar"
+              }
+            ]
+          },
+          "id": 61479,
+          "objNameList": [
+            
+          ],
+          "refCurry": {
+            "id": 30779,
+            "keyList": [
+              {
+                "objKey": {
+                  "id": 9
+                },
+                "val": "HKD"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "success": true,
+  "code": 1,
+  "hintMessages": [
+    
+  ],
+  "queryCode": "OK"
 }
