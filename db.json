@@ -1,380 +1,256 @@
 {
-  
-  "data": [
-    {
-      "bu": {
-        "keyList": [
-          {
-            "objKey": {
-              "id": 11
-            },
-            "val": "BU.UK"
-          }
-        ]
-      },
-      "objNameList": [
-        {
-          "dateValid": "0001-01-02",
-          "name": "00301261001/GBP"
-        }
-      ],
-      "openDate": "1992-02-25",
-      "posList": [
-        
-        {
-          "asset": {
-            "extn": {
-              
-            },
-            "id": 58904,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "SAS Commodity"
-              }
-            ]
-          },
-          "id": 61154,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 30857,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "SGD"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              "assetTks": [
-                {
-                  "val": "T49"
-                }
-              ]
-            },
-            "id": 59151,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "4.25% United Kingdom of Great Britain and Northern Ireland 2008 - 07.12.2049"
-              }
-            ]
-          },
-          "id": 61161,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 52,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "GBP"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              "assetTks": [
-                {
-                  "val": "GSK"
-                }
-              ]
-            },
-            "id": 59755,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "GlaxoSmithKline"
-              }
-            ]
-          },
-          "id": 61168,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 52,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "GBP"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              "assetTks": [
-                {
-                  "val": "SOLB"
-                }
-              ]
-            },
-            "id": 59739,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "Solvay"
-              }
-            ]
-          },
-          "id": 61171,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 51,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "EUR"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              "assetTks": [
-                {
-                  "val": "T32"
-                }
-              ]
-            },
-            "id": 59124,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "1.25% Index-linked United Kingdom of Great Britain and Northern Ireland 2008 - 22.11.2032"
-              }
-            ]
-          },
-          "id": 61175,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 52,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "GBP"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              "assetTks": [
-                {
-                  "val": "SBRY"
-                }
-              ]
-            },
-            "id": 59767,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "J Sainsbury"
-              }
-            ]
-          },
-          "id": 61183,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 52,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "GBP"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              "assetTks": [
-                {
-                  "val": "SGE"
-                }
-              ]
-            },
-            "id": 59826,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "Sage Grp"
-              }
-            ]
-          },
-          "id": 61187,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 52,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "GBP"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              "assetTks": [
-                {
-                  "val": "LLOY"
-                }
-              ]
-            },
-            "id": 59778,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "Lloyds Bank Grp"
-              }
-            ]
-          },
-          "id": 61189,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 52,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "GBP"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              
-            },
-            "id": 58873,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "SISF Gl Gold"
-              }
-            ]
-          },
-          "id": 61192,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 30857,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "SGD"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              
-            },
-            "id": 59172,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "2.9% Swire Properties MTN Financing Ltd 2015 - 23.01.2025"
-              }
-            ]
-          },
-          "id": 61195,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 30779,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "HKD"
-              }
-            ]
-          }
-        },
-        {
-          "asset": {
-            "extn": {
-              
-            },
-            "id": 30779,
-            "objNameList": [
-              {
-                "dateValid": "0001-01-02",
-                "name": "Hong Kong Dollar"
-              }
-            ]
-          },
-          "id": 61479,
-          "objNameList": [
-            
-          ],
-          "refCurry": {
-            "id": 30779,
-            "keyList": [
-              {
-                "objKey": {
-                  "id": 9
-                },
-                "val": "HKD"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ],
-  "success": true,
-  "code": 1,
-  "hintMessages": [
-    
-  ],
-  "queryCode": "OK"
+	"users": [{
+			"id": 1,
+			"firstName": "Saurabh",
+			"lastName": "Shrivastav",
+			"email": "saurabh.shrivastav@gmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 2,
+			"firstName": "Akshay",
+			"lastName": "Bairagi",
+			"email": "akshay.bairagi@hotmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 3,
+			"firstName": "Amar",
+			"lastName": "Sawant",
+			"email": "amar.sawant@hotmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 4,
+			"firstName": "Kurtis",
+			"lastName": "Brooks",
+			"email": "kurtis.brooks@gmail.com",
+			"userPassword": "12345",
+			"userRole": "Admin"
+		},
+		{
+			"id": 5,
+			"firstName": "Leanne",
+			"lastName": "Graham",
+			"email": "leanne.graham@yahoo.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 6,
+			"firstName": "Ervin",
+			"lastName": "Howell",
+			"email": "ervin.howell@rediff.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 7,
+			"firstName": "Clementine",
+			"lastName": "Bauch",
+			"email": "clementine.bauch@gmail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		},
+		{
+			"id": 8,
+			"firstName": "Patricia",
+			"lastName": "Lebsack",
+			"email": "patricia.lebsack@hotmail.com",
+			"userPassword": "12345",
+			"userRole": "User"
+		}
+	],
+	"projects": [{
+			"id": 1,
+			"name": "ERM marketplace",
+			"department": "Central Functions"
+		},
+		{
+			"id": 2,
+			"name": "SAP (Group)",
+			"department": "Group Processes & Application"
+		},
+		{
+			"id": 3,
+			"name": "Avq Offering X",
+			"department": "Product Management and Development"
+		}
+	],
+
+	"assets": [{
+			"id": 1,
+
+			"tag": "ITH-0001",
+			"name": "HP Elitebook",
+			"category": "Laptop",
+			"model": "HP Elitebook",
+			"serial": "HP301234473",
+			"manufacturer": "HP",
+			"status": "Deployed",
+			"location": "Pune"
+		}, {
+			"id": 2,
+
+			"tag": "ITH-0002",
+			"name": "Netgear Nighthawk AX12",
+			"category": "Router",
+			"model": "Netgear Nighthawk AX12",
+			"serial": "NG4349543",
+			"manufacturer": "Netgear",
+			"status": "Pending",
+			"location": "Manila"
+		},
+		{
+			"id": 3,
+
+			"tag": "ITH-0003",
+			"name": "Samsung 27 inch",
+			"category": "Monitor",
+			"model": "Samsung 27 inch",
+			"serial": "SM43849543",
+			"manufacturer": "Samsung",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"id": 4,
+
+			"tag": "ITH-0004",
+			"name": "Keyboard",
+			"category": "Accessory",
+			"model": "Dell Keyboard",
+			"serial": "DJU43975493",
+			"manufacturer": "Dell",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"id": 5,
+
+			"tag": "ITH-0005",
+			"name": "Keyboard Logitech MK240",
+			"category": "Accessory",
+			"model": "Logitech MK240",
+			"serial": "DJU43975493",
+			"manufacturer": "Logitech",
+			"status": "Deployed",
+			"location": "Pune"
+		},
+		{
+			"id": 6,
+
+			"tag": "ITH-0006",
+			"name": "HP Docking Station",
+			"category": "Docking station",
+			"model": "HP DS",
+			"serial": "1C1Y523AA",
+			"manufacturer": "HP",
+			"status": "Deployed",
+			"location": "Zurich"
+		},
+		{
+			"id": 7,
+
+			"tag": "ITH-0007",
+			"name": "Macbook Pro 32",
+			"category": "Laptop",
+			"model": "Macbook Pro M1 13",
+			"serial": "AMB49473248",
+			"manufacturer": "Apple",
+			"status": "Pending",
+			"location": "Zurich"
+		}
+	],
+	"licenses": [{
+			"id": 1,
+			"tag": "ITL-0001",
+			"name": "Mcaffee agent",
+			"category": "Antivirus",
+			"serial": "GDSD3-NJJF6",
+			"manufacturer": "Mcaffee",
+			"expiry": "31-Dec-23"
+		},
+		{
+			"id": 2,
+			"tag": "ITL-0002",
+			"name": "Zscaler",
+			"category": "Security",
+			"serial": "FRETTY53622",
+			"manufacturer": "Zscaler",
+			"expiry": "23-SEP-25"
+		},
+		{
+			"id": 3,
+			"tag": "ITL-0003",
+			"name": "ThinkCell",
+			"category": "MS office addons",
+			"serial": "8434-4343-1234",
+			"manufacturer": "Microsoft",
+			"expiry": "31-Mar-25"
+		},
+		{
+			"id": 4,
+			"tag": "ITL-0004",
+			"name": "MS Office 365",
+			"category": "Productivity",
+			"serial": "12345-12345",
+			"manufacturer": "Microsoft",
+			"expiry": "30-Jun-23"
+		},
+		{
+			"id": 5,
+			"tag": "ITL-0005",
+			"name": "Zoom business",
+			"category": "Conference",
+			"serial": "348343474-3434",
+			"manufacturer": "Microsoft",
+			"expiry": "31-Dec-23"
+		}
+	],
+	"allocation": [{
+			"id": 1,
+			"type": "Asset",
+			"assetname": "HP Elitebook",
+			"category": "Laptop",
+			"serial": "HP301234473",
+			"date": "23-Nov-21",
+			"user": "Leanne Graham",
+			"location": "Zurich"
+		},
+		{
+			"id": 2,
+			"type": "Asset",
+			"assetname": "Samsung 27 inch",
+			"category": "Monitor",
+			"serial": "SM43849543",
+			"date": "12-Jun-21",
+			"user": "Clementine Bauch",
+			"location": "Singapore"
+		},
+		{
+			"id": 3,
+			"type": "Asset",
+			"assetname": "HP Docking Station",
+			"category": "Docking station",
+			"serial": "1C1Y523AA",
+			"date": "5-Apr-20",
+			"user": "Ervin Howell",
+			"location": "Zurich"
+		},
+		{
+			"id": 4,
+			"type": "Asset",
+			"assetname": "Macbook Pro 32",
+			"category": "Laptop",
+			"serial": "AMB49473248",
+			"date": "14-Jul-22",
+			"user": "Kurtis Brooks",
+			"location": "Sydney"
+		}
+	]
+
 }
